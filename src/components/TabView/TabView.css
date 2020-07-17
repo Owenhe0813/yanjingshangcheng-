@@ -1,0 +1,19 @@
+.tab-view {
+  position: fixed;
+  left: 0;
+  bottom: 0px;
+  width: 10rem;
+  height: 1.333333rem;
+  border-top: 1px solid #ebedf0;
+  display: flex;
+  justify-content: space-around;
+}
+.tab-view a {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #7d7e80;
+  text-align: center;
+  font-size: 0.293333rem;
+}

@@ -1,0 +1,39 @@
+.cate-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cate-list .cate-item {
+  flex: 0 1 20%;
+  height: 2.293333rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cate-list .cate-item .cate-icon {
+  width: 1.04rem;
+  height: 1.04rem;
+  border-radius: 50%;
+}
+.cate-list .cate-item .cate-icon-0 {
+  background-color: #db72ab;
+}
+.cate-list .cate-item .cate-icon-1 {
+  background-color: #f55a63;
+}
+.cate-list .cate-item .cate-icon-2 {
+  background-color: #ab7ce3;
+}
+.cate-list .cate-item .cate-icon-3 {
+  background-color: #94db87;
+}
+.cate-list .cate-item .cate-icon-4 {
+  background-color: #838de6;
+}
+.cate-list .cate-item .cate-name {
+  margin-top: 0.186667rem;
+  text-align: center;
+  font-size: 0.346667rem;
+  font-weight: 600;
+}

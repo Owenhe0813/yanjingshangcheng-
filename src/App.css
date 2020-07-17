@@ -1,0 +1,11 @@
+.navbar {
+  height: 1.226667rem;
+  line-height: 1.226667rem;
+  background-color: #ff0000;
+  text-align: center;
+}
+.navbar .van-nav-bar__title {
+  color: #fff;
+  font-size: 0.426667rem;
+  font-weight: 600;
+}
